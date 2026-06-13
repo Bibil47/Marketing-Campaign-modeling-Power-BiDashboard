@@ -2,6 +2,11 @@
 # Marketing-Campaign-modeling-Dashboard
 📊 Marketing Campaign Performance Analysis & Conversion Prediction
 
+
+![Uploading Screenshot 2026-04-23 110852.png…]()
+
+
+
 🚀 Project Summary
 
 This project analyzes multi-channel marketing campaign data to uncover key drivers of customer conversion and build a predictive model to estimate campaign success.
