@@ -3,8 +3,6 @@
 📊 Marketing Campaign Performance Analysis & Conversion Prediction
 
 
-![Uploading Screenshot 2026-04-23 110852.png…]()
-
 
 
 🚀 Project Summary
